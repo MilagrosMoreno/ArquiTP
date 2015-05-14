@@ -45,4 +45,4 @@ user@linux:$ ./run.sh
 * Implement the module unpacker in the kernel.
 
 
-Author: Rodrigo Rearden (RowDaBoat)
+Authors: Augusto Nizzo McIntosh, Rodrigo Rearden (RowDaBoat)
