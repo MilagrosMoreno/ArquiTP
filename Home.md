@@ -42,9 +42,8 @@ From the x64BareBones project directory run:
 user@linux:$ ./run.sh
 ```
 
-## TODO:
+## TODO
 * Translate the module packer from C++ to C.
-* Implement the module unpacker in the kernel.
 
 
 Authors: Augusto Nizzo McIntosh, Rodrigo Rearden (RowDaBoat)
