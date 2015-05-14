@@ -8,7 +8,7 @@ The final goal of the project is to provide an entry point for a C kernel and th
 
 It uses a modification of the [Pure64](http://www.returninfinity.com/pure64.html) boot loader to boot up the basic system. The modification enables to load a greater payload than the restrictive 26k that Pure64 allows.
 
-**x64BraeBones** is written in x86-64 assembly (intel) and C.
+**x64BraeBones** is written primarily in C, there is a small loader written in x86-64 assembly (Intel idiom).
 
 ## Environment setup:
 1- Install the following packages before building the Toolchain and Kernel:
