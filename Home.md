@@ -10,7 +10,7 @@ It uses a modification of the [Pure64](http://www.returninfinity.com/pure64.html
 
 **x64BraeBones** is written primarily in C, there is a small loader written in x86-64 assembly (Intel idiom).
 
-## Environment setup:
+## Environment setup
 1- Install the following packages before building the Toolchain and Kernel:
 
 ```
