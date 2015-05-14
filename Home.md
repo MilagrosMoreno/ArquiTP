@@ -1,5 +1,7 @@
-# x64BareBones
+# x64BareBones, starting a 64 Bits OS almost from scratch.
 
+
+## Introduction
 **x64BareBones** is a basic setup to develop operating systems for the Intel 64 bits architecture.
 
 The final goal of the project is to provide an entry point for a C kernel and the possibility to load extra binary modules separated from the main kernel.
