@@ -14,7 +14,7 @@ It uses a modification of the [Pure64](http://www.returninfinity.com/pure64.html
 1- Install the following packages before building the Toolchain and Kernel:
 
 ```
-nasm qemu gcc-4.8 g++-4.8 make
+nasm qemu gcc make
 ```
 
 2- Build the Toolchain
