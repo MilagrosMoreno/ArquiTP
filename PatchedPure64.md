@@ -17,3 +17,19 @@ These are roughly the steps it follows to acchieve that:
 * Finally it jumps to that address, same as the unpatched version
 
 This steps leave the kernel located at address 0x100000, and the modules exactly after the last byte of the kernel.
+
+       ▄▄▄▀▀▀▄▄███▄
+          ▄▀▀░░░░░░░▐░▀██▌
+     ▄▀░░░░▄▄███░▌▀▀░▀█
+  ▄█░░▄▀▀▒▒▒▒▒▄▐░░░░█▌
+▐█▀▄▀▄▄▄▄▀▀▀▀▌░░░░░▐█▄
+▌▄▄▀▀                  ▌░░░░▄███████▄
+                           ▐░░░░▐███████████▄
+                           ▐░░░░▐█████████████▄
+                             ▀▄░░░▐██████████████▄
+                                 ▀▄▄████████████████▄
+                                                   █▀██████▀▀▀▀█▄
+                                             ▄▄▀▄▀  ▀██▀▀▀▄▄▄▀█
+                                      ▄▀▀▀▀▀         ██▌
+                                                        ▄▀▄▀
+                                                  ▄▄██▀
