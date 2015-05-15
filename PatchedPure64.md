@@ -1,4 +1,4 @@
-# Bootloader - Patched Pure64 #
+#ヽ༼ຈل͜ຈ༽ﾉ Bootloader - Patched Pure64 ヽ༼ຈل͜ຈ༽ﾉ#
 
 **x64BareBones** loads from a modified version of the [Pure64](http://www.returninfinity.com/pure64.html) bootloader.
 
