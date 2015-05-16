@@ -6,7 +6,7 @@ From now on we'll call **payload** to the binary that Pure64 loads from the disk
 
 The original Pure64 is loaded at address 0x8000 and treats the trailing 26KiB after the end of itself as the payload. The 26KiB limit is not enough for kernels developed on top of **x64BareBones**.
 
-The patched version on **x64BareBones's** source extends the payload's size up to 250KiB.
+The patched version on **x64BareBones**'s source extends the payload's size up to 250KiB.
 These are roughly the steps it follows to acchieve that:
 
 * Patched Pure64 starts in Real Mode, as any bootloader.
