@@ -46,4 +46,5 @@ user@linux:$ ./run.sh
 * Translate the module packer from C++ to C.
 * Add dongers ╰༼ •̀۝•́ ༽╯ (つ◉益◉)つ ლ(ಠ益ಠლ) ʕ ﹒︣ ᴥ ﹒︣ ʔ
 
-Authors: Augusto Nizzo McIntosh, Rodrigo Rearden (RowDaBoat)
+Author: Rodrigo Rearden (RowDaBoat)
+Cooperator: Augusto Nizzo Mc Intosh
