@@ -43,8 +43,8 @@ user@linux:$ ./run.sh
 ```
 
 ## TODO
-* Translate the module packer from C++ to C.
+* Add output filename option for C Packer
 * Add dongers ╰༼ •̀۝•́ ༽╯ (つ◉益◉)つ ლ(ಠ益ಠლ) ʕ ﹒︣ ᴥ ﹒︣ ʔ
 
 Author: Rodrigo Rearden (RowDaBoat)
-Cooperator: Augusto Nizzo Mc Intosh
+Collaborator: Augusto Nizzo Mc Intosh
