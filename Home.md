@@ -47,4 +47,5 @@ user@linux:$ ./run.sh
 * Add dongers ╰༼ •̀۝•́ ༽╯ (つ◉益◉)つ ლ(ಠ益ಠლ) ʕ ﹒︣ ᴥ ﹒︣ ʔ
 
 Author: Rodrigo Rearden (RowDaBoat)
+
 Collaborator: Augusto Nizzo Mc Intosh
